@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Zach Walsh | User Experience Design | Chicago, IL</title>
+		<title>Zach Walsh | User Experience | Chicago, IL</title>
 		<meta name="Description" content="I make simple and intuitive interfaces."> 
 		<meta name="Keywords" content="user experience, ui design, web design, mobile design, zach walsh, zachary walsh, chicago, illinois">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
