@@ -1,0 +1,136 @@
+section.menu {
+	left: 30px;
+	position: fixed;
+	top: 30px;
+	z-index: 100000;
+
+	@media screen and (max-width: $breakpoint-1) {
+		background: rgba(245, 245, 245, 0.8);
+		left: 0;
+		padding: 8px;
+		right: 0;
+		top: 0;
+
+		&.on {
+			background: rgba(250, 250, 250, 0);
+		}
+	}
+}
+
+#nav-icon {
+  background: rgba(255, 255, 255, 0.6);
+  @include border-radius(3px);
+  cursor: pointer;
+  height: 25px;
+  padding: 10px;
+  position: relative;
+  @include rotate(0deg);
+  @include transition(.5s ease-in-out);
+  width: 30px;
+
+	@media screen and (max-width: 730px) {
+		background: rgba(255, 255, 255, 0);
+	}
+
+  span {
+    background: $black;
+    @include border-radius(9px);
+    display: block;
+    height: 4px;
+    left: 10px;
+    opacity: 1;
+    position: absolute;
+    @include rotate(0deg);
+    @include transition(.25s ease-in-out);
+    width: 30px;
+
+    &:nth-child(1) {
+      top: 10px;
+    }
+
+    &:nth-child(2),
+    &:nth-child(3) {
+      top: 20px;
+    }
+
+    &:nth-child(4) {
+      top: 30px;
+    }
+  }
+
+  &.on {
+    background: none;
+
+    span:nth-child(1) {
+      left: 50%;
+      top: 18px;
+      width: 0%;
+    }
+
+    span:nth-child(2) {
+      background: #ffffff;
+      @include rotate(45deg);
+    }
+
+    span:nth-child(3) {
+      background: #ffffff;
+      @include rotate(-45deg);
+    }
+
+    span:nth-child(4) {
+      background: #ffffff;
+      left: 50%;
+      top: 18px;
+      width: 0%;
+    }
+  }
+}
+
+nav {
+	background: rgba(0, 0, 0, 0.75);
+	bottom: 0;
+	box-sizing: border-box;
+	display: none;
+	left: 0;
+	padding: 90px 30px 30px 40px;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 99999;
+
+	@media screen and (max-width: $breakpoint-1) {
+		padding: 80px 30px 30px 23px;
+	}
+
+	img {
+		@include border-radius(80px);
+		height: auto;
+		position: absolute;
+		right: 40px;
+		top: 40px;
+		width: 80px;
+
+		@media screen and (max-width: $breakpoint-1) {
+			top: 80px;
+		}
+	}
+
+	a {
+		color: #ffffff;
+		display: block;
+		font-family: "Oswald", arial, sans;
+		font-size: 1.5rem;
+	  font-weight: 300;
+		margin-bottom: 10px;
+		padding: 10px 0 10px 0;
+		text-decoration: none;
+		text-transform: uppercase;
+		transition: padding ease 0.25s;
+
+		&:hover,
+		&.on {
+			border-left: 2px solid $green;
+			padding-left: 20px;
+		}
+	}
+}
