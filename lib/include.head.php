@@ -4,7 +4,7 @@
   <meta name="Keywords" content="user experience, ui design, web design, mobile design, zach walsh, zachary walsh, chicago, illinois">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
-  <link rel="stylesheet" href="css/styles.css" type="text/css" />
+  <link rel="stylesheet" href="styles/styles.css" type="text/css" />
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <script type="text/javascript" src="js/jquery.js"></script>

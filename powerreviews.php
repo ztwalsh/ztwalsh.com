@@ -15,7 +15,7 @@
 					<span></span>
 				</div>
 
-				<p>I co-founded Shakoolie with my partner in 2011. From a  $1k investement, we've created a product driving $250k in annual revenue&mdash;and we've done it all. With Shakoolie, we've built an ecommerce experience from design to code on the Shopify Platform. Integrated our Shopify and Amazon stores unified shipping tool to make fulfilment and inventory management easy. Designed and contracted designers to make new koozie designs. Hired heads to handle order volume. Pushed for profitability through product and shipping cost analysis. Run advertising through Facebook and Email campaigns. Everything. Shakoolie has not only been a fun side-project, but a great experience in running all aspects of an active business. Here are some highlights:</p>
+				<p>At PowerReviews, I've served as the lead designer for the company as it grew from 8 to 150 employees. As we grew, I helped lead the creation of the design discovery process. Through this process, we've made fundamental updates in the ways we colect and display content and in the ways that we deliver that content back to the customers we serve.</p>
 
 				<h3 class="heading-2">Collecting & Displaying Content</h3>
 				<p>When it came to our website, we had a simple mission: Make it easy to find what we're selling and make it easy to see what you're gonna get. Shakoolie is a novelty item often given as a gift. It's also a pretty unique, so shoppers need to feel like they can become familiar with the product. We made a very easy-to-use mobile and desktop experience for shopping and browsing and put emphasis on our photos to make sure people can see, in detail, what they will be getting.</p>
@@ -38,16 +38,13 @@
 				<img src="images/powerreviews_display-03.jpg" />
 			</figure>
 			<figure>
-				<img src="images/powerreviews_display-04.jpg" />
-			</figure>
-			<figure>
 				<img src="images/powerreviews_collect-01.jpg" />
 			</figure>
 		</section>
 
 
 		<section class="content spacer">
-				<h3 class="heading-2">Redesigning a Dashboard</h3>
+				<h3 class="heading-2">Redesigning the Dashboard</h3>
 				<p>I am a web guy. </p>
 		</section>
 

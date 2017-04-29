@@ -32,7 +32,7 @@
 					The product page was built as a showroom for our koozies. Large photos of the koozie and its parts give buyers the visual information they need to add to cart.</figcaption>
 			</figure>
 			<figure>
-				<img src="images/shakoolie_web-03.jpg" />
+				<img src="images/shakoolie_web-06.jpg" />
 			</figure>
 			<figure>
 				<img src="images/shakoolie_web-01.jpg" />
@@ -64,7 +64,7 @@
 
 		<section class="content spacer">
 				<h3 class="heading-2">Shipping Design</h3>
-				<p>Lorem ipsum dolor sit amet, ullamcorper nec eget convallis, ultricies viverra id libero diam praesent in. Posuere euismod id vel laoreet non egestas, ipsum primis mi sollicitudin metus, diam ac, elit vivamus suscipit varius. Mus morbi placerat metus, risus turpis feugiat magna, ut lacinia semper in ea elit ut, nonummy etiam vehicula duis. Sagittis vivamus lectus viverra eleifend torquent vitae. Tellus id at, vitae provident sed mauris tellus. Eu duis maecenas, lorem tincidunt ut. Habitant mi eu. Feugiat suspendisse id lectus, integer lacinia aliquam. Luctus dolor eu risus dolorum elementum, tincidunt leo quis, per lorem, tortor maecenas vehicula vivamus. Nisl quis eros proin condimentum, dolor quis, eleifend velit aliquam praesent. Tempor interdum auctor arcu orci ac.</p>
+				<p>When it comes to shipping materials, our goal was simple: build excitement when a customer sees that their package has arrived. People receive packages all of the time&mdash;their amazon orders always come in the same kind of box. We differentiate by drawing attetion to the unique order they made with us. We push our bold, blue brand color and use the line "Take me to your shower" to instill visual recognition followed by something fun to remind them why they purchased in the first place.</p>
 		</section>
 
 
