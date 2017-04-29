@@ -5,7 +5,6 @@ section.menu {
 	z-index: 100000;
 
 	@media screen and (max-width: $breakpoint-1) {
-		// background: rgba(245, 245, 245, 0.3);
 		left: 0;
 		padding: 8px;
 		right: 0;
@@ -18,7 +17,6 @@ section.menu {
 }
 
 #nav-icon {
-  background: rgba(255, 255, 255, 0.6);
   @include border-radius(3px);
   cursor: pointer;
   height: 25px;
@@ -33,7 +31,7 @@ section.menu {
 	}
 
   span {
-    background: $black;
+    background: $grey;
     @include border-radius(9px);
     display: block;
     height: 4px;

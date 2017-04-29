@@ -16,7 +16,6 @@
 				<h1 class="heading-1">Shakoolie</h1>
 				<span></span>
 				<p class="big">If you haven't had a beer in the shower...try it. If you want to make it great, buy a Shakoolie. Shakoolie is a shower beer can koozie meant to keep your beer cold and accessible.</p>
-				<!-- <p><a href="#" class="secondary">Ecommerce</a> <a href="#" class="secondary">Product Design</a> <a href="#" class="secondary">Shipping Packaging</a></p> -->
 			</div>
 		</header>
 

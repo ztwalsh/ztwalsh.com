@@ -8,10 +8,20 @@
 
 		<?php require('lib/include.nav.php'); ?>
 
+		<header>
+			<div class="hero-image">
+				<img src="images/powerreviews_display-05.jpg" />
+			</div>
+			<div class="title">
+				<h1 class="heading-1">PowerReviews</h1>
+				<span></span>
+				<p class="big">If you've shopped on sites like Jet.com, The North Face, Whirlpool, or Toys 'R Us, chances are you've seen PowerReviews' software in action. PowerReviews provides retailers and brands tools to collect and display product reviews on their Ecommerce sites.</p>
+			</div>
+		</header>
+
 		<section class="content">
 				<div class="title">
-					<h1 class="heading-1">PowerReviews</h1>
-					<p class="big">If you've shopped on sites like Jet.com, The North Face, Whirlpool, or Toys 'R Us, chances are you've seen PowerReviews' software in action. PowerReviews provides retailers and brands tools to collect and display product reviews on their Ecommerce sites.</p>
+
 					<span></span>
 				</div>
 

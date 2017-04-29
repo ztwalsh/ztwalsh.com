@@ -1,5 +1,8 @@
 disallow: /dribbble/*
+disallow: /images/*
+disallow: /styles/*
+disallow: /js/*
 disallow: /scss/*
-disallow: powerreviews.php
 disallow: orbitz.php
+disallow: powerreviews.php
 disallow: shakoolie.php
