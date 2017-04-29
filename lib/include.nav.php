@@ -1,6 +1,6 @@
 <?php
   if ($_SERVER['HTTP_HOST'] == 'www.ztwalsh.com' || $_SERVER['HTTP_HOST'] == 'ztwalsh.com') {
-    $root = 'http://www.ztwalsh.com';
+    $root = 'http://www.ztwalsh.com/';
   } else {
     $root = 'http://localhost:8000/ztwalsh.com/';
   }
