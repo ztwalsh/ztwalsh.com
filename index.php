@@ -7,7 +7,7 @@
 	?>
 	<body>
 
-		<?php require('lib/include.nav.php'); ?>
+		<?php //require('lib/include.nav.php'); ?>
 
 		<section class="content text-center">
 			<section>
