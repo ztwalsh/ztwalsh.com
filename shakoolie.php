@@ -15,7 +15,7 @@
 					<span></span>
 				</div>
 
-				<p>I co-founded Shakoolie with my partner in 2011. From a  $1k investement, we've created a product driving $250k in annual revenue&mdash;and we've done it all. With Shakoolie, we've built an ecommerce experience from design to code on the Shopify Platform. Integrated our Shopify and Amazon stores unified shipping tool to make fulfilment and inventory management easy. Designed and contracted designers to make new koozie designs. Hired heads to handle order volume. Pushed for profitability through product and shipping cost analysis. Run advertising through Facebook and Email campaigns. Everything. Shakoolie has not only been a fun side-project, but a great experience in running all aspects of an active business. Here are some highlights:</p>
+				<p>I co-founded Shakoolie with my partner in 2011. From a  $1k investement, we've created a product driving $250k in annual revenue&mdash;and do it all. From building an ecommerce site to handling assembly and fulfillment to advertising and working with customers, Shakoolie has been a great experience in running all aspects of an active business. Here are some highlights:</p>
 
 				<h3 class="heading-2">Ecommerce Experience</h3>
 				<p>When it came to our website, we had a simple mission: Make it easy to find what we're selling and make it easy to see what you're gonna get. Shakoolie is a novelty item often given as a gift. It's also a pretty unique, so shoppers need to feel like they can become familiar with the product. We made a very easy-to-use mobile and desktop experience for shopping and browsing and put emphasis on our photos to make sure people can see, in detail, what they will be getting.</p>
@@ -42,7 +42,7 @@
 
 		<section class="content spacer">
 				<h3 class="heading-2">Product Design</h3>
-				<p>I am a web guy. </p>
+				<p>We started simple. We offered one koozie design and ordered a batch of 200. We didn't know what to expect, but to our astonishment, they started selling. Since then, we've expanded out product line to offer a variety of designs. Over time, we've seen these take off as gift items so today we gear our desings towards occasions where you'd want to buy a gift for someone in your life. We market them fo occasions like christmas, weddings, mother's and father's day...you name it. We've still stayed true to our original design.</p>
 		</section>
 
 
