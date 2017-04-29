@@ -8,13 +8,19 @@
 
 		<?php require('lib/include.nav.php'); ?>
 
-		<section class="content">
-				<div class="title">
-					<h1 class="heading-1">Shakoolie</h1>
-					<p class="big">If you haven't had a beer in the shower...try it. If you want to make it great, buy a Shakoolie. Shakoolie is a shower beer can koozie meant to keep your beer cold and accessible.</p>
-					<span></span>
-				</div>
+		<header>
+			<div class="hero-image">
+				<img src="images/shakoolie_product-01.jpg" />
+			</div>
+			<div class="title">
+				<h1 class="heading-1">Shakoolie</h1>
+				<span></span>
+				<p class="big">If you haven't had a beer in the shower...try it. If you want to make it great, buy a Shakoolie. Shakoolie is a shower beer can koozie meant to keep your beer cold and accessible.</p>
+				<!-- <p><a href="#" class="secondary">Ecommerce</a> <a href="#" class="secondary">Product Design</a> <a href="#" class="secondary">Shipping Packaging</a></p> -->
+			</div>
+		</header>
 
+		<section class="content">
 				<p>I co-founded Shakoolie with my partner in 2011. From a  $1k investement, we've created a product driving $250k in annual revenue&mdash;and do it all. From building an ecommerce site to handling assembly and fulfillment to advertising and working with customers, Shakoolie has been a great experience in running all aspects of an active business. Here are some highlights:</p>
 
 				<h3 class="heading-2">Ecommerce Experience</h3>
@@ -63,7 +69,7 @@
 
 
 		<section class="content spacer">
-				<h3 class="heading-2">Shipping Design</h3>
+				<h3 class="heading-2">Shipping Packaging</h3>
 				<p>When it comes to shipping materials, our goal was simple: build excitement when a customer sees that their package has arrived. People receive packages all of the time&mdash;their amazon orders always come in the same kind of box. We differentiate by drawing attetion to the unique order they made with us. We push our bold, blue brand color and use the line "Take me to your shower" to instill visual recognition followed by something fun to remind them why they purchased in the first place.</p>
 		</section>
 
