@@ -15,9 +15,25 @@
   </div>
 </section>
 <nav>
-  <img height="" src="images/zachwalsh.jpg" width="" />
-  <a href="<?php echo $root; ?>"<?php if($page == 'home') { echo ' class="on"';} ?>>Home</a>
-  <a href="<?php echo $root; ?>powerreviews.php"<?php if($page == 'powerreviews') { echo ' class="on"';} ?>>PowerReviews</a>
-  <a href="<?php echo $root; ?>orbitz.php"<?php if($page == 'orbitz') { echo ' class="on"';} ?>>Orbitz</a>
-  <a href="<?php echo $root; ?>shakoolie.php"<?php if($page == 'shakoolie') { echo ' class="on"';} ?>>Shakoolie</a>
+  <div class="featured cf">
+    <h2 class="heading-2">Featured Work</h2>
+    <a href="<?php echo $root; ?>powerreviews.php"<?php if($page == 'powerreviews') { echo ' class="on"';} ?>>
+      <img src="images/pwr-logo.svg" /><br />
+      PowerReviews
+    </a>
+    <a href="<?php echo $root; ?>orbitz.php"<?php if($page == 'orbitz') { echo ' class="on"';} ?>>
+      <img src="images/orbitz-logo.svg" /><br />
+      Orbitz
+    </a>
+    <a href="<?php echo $root; ?>shakoolie.php"<?php if($page == 'shakoolie') { echo ' class="on"';} ?>>
+      <img src="images/shakoolie-logo.svg" /><br />
+      Shakoolie
+    </a>
+  </div>
+  <div class="other">
+    <h2 class="heading-2">Other Places</h2>
+    <a href="<?php echo $root; ?>">Home</a>
+    <a href="<?php echo $root; ?>">Get in Touch</a>
+    <a href="<?php echo $root; ?>">Other Projects</a>
+  </div>
 </nav>

@@ -61,22 +61,40 @@
 
 		<section class="images">
 			<figure>
-				<img src="images/shakoolie_product-01.jpg" />
+				<img src="images/powerreviews_legacy-dashboard-01.jpg" />
 				<figcaption class="right">
-					<h3 class="heading-3">We Try, Fail, and Try Again to Find What Sells</h3>
+					<h3 class="heading-3">Before, little personality, cumbersome usability</h3>
 					As a ux and product designer, iteration is a part of my job. It's been fun to take that principal and apply it to developing designs that resonate with real people.
 					<br /><br />
 					We have had many different designs over the years. We'll do short runs of new designs, see what sticks, and move on. It's been a great way to keep the idea train running while also keeping inventory bloat light.
 				</figcaption>
 			</figure>
 			<figure>
-				<img src="images/shakoolie_product-02.jpg" />
+				<img src="images/powerreviews_legacy-dashboard-02.jpg" />
+			</figure>
+			<figure>
+				<img src="images/powerreviews_legacy-dashboard-03.jpg" />
+			</figure>
+			<figure>
+				<img src="images/powerreviews_dashboard-02.jpg" />
+				<figcaption class="right">
+					<h3 class="heading-3">After, simple, friendly interface</h3>
+					As a ux and product designer, iteration is a part of my job. It's been fun to take that principal and apply it to developing designs that resonate with real people.
+					<br /><br />
+					We have had many different designs over the years. We'll do short runs of new designs, see what sticks, and move on. It's been a great way to keep the idea train running while also keeping inventory bloat light.
+				</figcaption>
+			</figure>
+			<figure>
+				<img src="images/powerreviews_dashboard-03.jpg" />
+			</figure>
+			<figure>
+				<img src="images/powerreviews_dashboard-04.jpg" />
 			</figure>
 		</section>
 
 
 		<section class="content spacer">
-				<h3 class="heading-2">Shipping Design</h3>
+				<h3 class="heading-2">New Ideas</h3>
 				<p>Lorem ipsum dolor sit amet, ullamcorper nec eget convallis, ultricies viverra id libero diam praesent in. Posuere euismod id vel laoreet non egestas, ipsum primis mi sollicitudin metus, diam ac, elit vivamus suscipit varius. Mus morbi placerat metus, risus turpis feugiat magna, ut lacinia semper in ea elit ut, nonummy etiam vehicula duis. Sagittis vivamus lectus viverra eleifend torquent vitae. Tellus id at, vitae provident sed mauris tellus. Eu duis maecenas, lorem tincidunt ut. Habitant mi eu. Feugiat suspendisse id lectus, integer lacinia aliquam. Luctus dolor eu risus dolorum elementum, tincidunt leo quis, per lorem, tortor maecenas vehicula vivamus. Nisl quis eros proin condimentum, dolor quis, eleifend velit aliquam praesent. Tempor interdum auctor arcu orci ac.</p>
 		</section>
 

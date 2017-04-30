@@ -85,9 +85,10 @@ section.menu {
 }
 
 nav {
-	background: rgba(0, 0, 0, 0.75);
+	background: rgba(20, 20, 20, 0.95);
 	bottom: 0;
 	box-sizing: border-box;
+	color: #ffffff;
 	display: none;
 	left: 0;
 	padding: 90px 30px 30px 40px;
@@ -100,35 +101,80 @@ nav {
 		padding: 80px 30px 30px 23px;
 	}
 
-	img {
-		@include border-radius(80px);
-		height: auto;
-		position: absolute;
-		right: 40px;
-		top: 40px;
-		width: 80px;
+	.featured {
+		margin: 0 0 40px 0;
+		
+		a {
+			border: 2px solid $medium-grey;
+			@include border-radius(3px);
+			box-sizing: border-box;
+			color: $medium-grey;
+			cursor: pointer;
+			display: block;
+			fill: $medium-grey;
+			float: left;
+			font-family: "Oswald", arial, sans;
+			font-size: 1.5rem;
+		  font-weight: 300;
+			margin: 0 2% 0 0;
+			padding: 40px;
+			text-align: center;
+			text-decoration: none;
+			text-transform: uppercase;
+			transition: all ease 0.25s;
+			width: 32%;
 
-		@media screen and (max-width: $breakpoint-1) {
-			top: 80px;
+			@media screen and (max-width: $breakpoint-1) {
+				float: none;
+				margin: 0 0 10px 0;
+				padding: 20px;
+				width: 100%;
+			}
+
+			&:last-child {
+				margin: 0;
+			}
+
+			&.on,
+			&:hover {
+				border: 2px solid $green;
+				fill: $green;
+			}
+
+			img {
+				height: 100px;
+				margin-bottom: 10px;
+				width: auto;
+
+				@media screen and (max-width: $breakpoint-1) {
+					height: 50px;
+				}
+			}
 		}
 	}
 
-	a {
-		color: #ffffff;
-		display: block;
-		font-family: "Oswald", arial, sans;
-		font-size: 1.5rem;
-	  font-weight: 300;
-		margin-bottom: 10px;
-		padding: 10px 0 10px 0;
-		text-decoration: none;
-		text-transform: uppercase;
-		transition: padding ease 0.25s;
+	.other {
 
-		&:hover,
-		&.on {
-			border-left: 2px solid $green;
-			padding-left: 20px;
+		a {
+			border: 2px solid $medium-grey;
+			@include border-radius(3px);
+			box-sizing: border-box;
+			color: #ffffff;
+			cursor: pointer;
+			display: inline-block;
+			fill: #ffffff;
+			font-size: 1rem;
+		  font-weight: 300;
+			padding: 10px 20px;
+			text-align: center;
+			text-decoration: none;
+			transition: all ease 0.25s;
+
+			&.on,
+			&:hover {
+				border: 2px solid $green;
+				fill: $green;
+			}
 		}
 	}
 }
