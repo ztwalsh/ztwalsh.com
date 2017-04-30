@@ -34,15 +34,12 @@
 
 		<section class="images">
 			<figure>
-				<img src="images/powerreviews_display-05.jpg" />
+				<img src="images/powerreviews_display-02.jpg" />
 				<figcaption class="left">
 					<h3 class="heading-3">We Want to Clearly Tell Shoppers What They'll Get</h3>
 					The category page is set up to make seeing our range of koozie design easy.
 					<br /><br />
 					The product page was built as a showroom for our koozies. Large photos of the koozie and its parts give buyers the visual information they need to add to cart.</figcaption>
-			</figure>
-			<figure>
-				<img src="images/powerreviews_display-02.jpg" />
 			</figure>
 			<figure>
 				<img src="images/powerreviews_display-03.jpg" />
