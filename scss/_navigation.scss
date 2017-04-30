@@ -127,7 +127,10 @@ nav {
 			@media screen and (max-width: $breakpoint-1) {
 				float: none;
 				margin: 0 0 10px 0;
-				padding: 20px;
+				line-height: 0;
+				padding: 40px 40px 40px 90px;
+				position: relative;
+				text-align: left;
 				width: 100%;
 			}
 
@@ -148,6 +151,10 @@ nav {
 
 				@media screen and (max-width: $breakpoint-1) {
 					height: 50px;
+					left: 20px;
+					margin: 0;
+					position: absolute;
+					top: 15px;
 				}
 			}
 		}
