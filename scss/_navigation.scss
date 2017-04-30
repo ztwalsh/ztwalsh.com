@@ -103,7 +103,7 @@ nav {
 
 	.featured {
 		margin: 0 0 40px 0;
-		
+
 		a {
 			border: 2px solid $medium-grey;
 			@include border-radius(3px);
@@ -156,8 +156,8 @@ nav {
 	.other {
 
 		a {
-			border: 2px solid $medium-grey;
-			@include border-radius(3px);
+			background: rgba(200, 200, 200, 0.2);
+			@include border-radius(2px);
 			box-sizing: border-box;
 			color: #ffffff;
 			cursor: pointer;
@@ -170,10 +170,14 @@ nav {
 			text-decoration: none;
 			transition: all ease 0.25s;
 
+			@media screen and (max-width: $breakpoint-1) {
+				font-size: 0.8rem;
+				padding: 5px 10px;
+			}
+
 			&.on,
 			&:hover {
-				border: 2px solid $green;
-				fill: $green;
+				background: $green;
 			}
 		}
 	}

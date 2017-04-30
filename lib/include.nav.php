@@ -31,9 +31,7 @@
     </a>
   </div>
   <div class="other">
-    <h2 class="heading-2">Other Places</h2>
-    <a href="<?php echo $root; ?>">Home</a>
-    <a href="<?php echo $root; ?>">Get in Touch</a>
-    <a href="<?php echo $root; ?>">Other Projects</a>
+    <a href="<?php echo $root; ?>"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
+    <a href="<?php echo $root; ?>contact.php"><i class="fa fa-handshake-o" aria-hidden="true"></i> Get in Touch</a>
   </div>
 </nav>

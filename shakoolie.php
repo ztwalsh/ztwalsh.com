@@ -20,7 +20,7 @@
 		</header>
 
 		<section class="content">
-				<p>I co-founded Shakoolie with my partner in 2011. From a  $1k investement, we've created a product driving $250k in annual revenue&mdash;and do it all. From building an ecommerce site to handling assembly and fulfillment to advertising and working with customers, Shakoolie has been a great experience in running all aspects of an active business. Here are some highlights:</p>
+				<p class="big">I co-founded Shakoolie with my partner in 2011. From a  $1k investement, we've created a product driving $250k in annual revenue. From building an ecommerce site to handling assembly and fulfillment to advertising and customer service, Shakoolie steeps us in all aspects of an active business.</p>
 
 				<h3 class="heading-2">Ecommerce Experience</h3>
 				<p>When it came to our website, we had a simple mission: Make it easy to find what we're selling and make it easy to see what you're gonna get. Shakoolie is a novelty item often given as a gift. It's also a pretty unique, so shoppers need to feel like they can become familiar with the product. We made a very easy-to-use mobile and desktop experience for shopping and browsing and put emphasis on our photos to make sure people can see, in detail, what they will be getting.</p>
