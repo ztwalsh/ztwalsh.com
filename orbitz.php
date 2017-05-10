@@ -8,13 +8,19 @@
 
 		<?php require('lib/include.nav.php'); ?>
 
-		<section class="content">
-				<div class="title">
-					<h1 class="heading-1">Orbitz</h1>
-					<p class="big">Have you ever shopped for a flight on Orbitz or Expedia? If so, I hope it was a good experience. Orbitz is a travel site dedicated to bringing you the best flight and travel deals as easily as possible.</p>
-					<span></span>
-				</div>
+		<header>
+			<div class="hero-image">
+				<img src="images/orbitz_web-01.jpg" />
+			</div>
+			<div class="title">
+				<h1 class="heading-1">Orbitz</h1>
+				<span></span>
+				<p class="big">Have you ever shopped for a flight on Orbitz or Expedia? If so, I hope it was a good experience. Orbitz is a travel site dedicated to bringing you the best flight and travel deals as easily as possible.
+</p>
+			</div>
+		</header>
 
+		<section class="content">
 				<p>I co-founded Shakoolie with my partner in 2011. From a  $1k investement, we've created a product driving $250k in annual revenue&mdash;and we've done it all. With Shakoolie, we've built an ecommerce experience from design to code on the Shopify Platform. Integrated our Shopify and Amazon stores unified shipping tool to make fulfilment and inventory management easy. Designed and contracted designers to make new koozie designs. Hired heads to handle order volume. Pushed for profitability through product and shipping cost analysis. Run advertising through Facebook and Email campaigns. Everything. Shakoolie has not only been a fun side-project, but a great experience in running all aspects of an active business. Here are some highlights:</p>
 
 				<h3 class="heading-2">Ecommerce Experience</h3>
