@@ -2,11 +2,12 @@ section.menu {
 	left: 30px;
 	position: fixed;
 	top: 30px;
+	@include transition(all .35s ease);
 	z-index: 100000;
 
 	@media screen and (max-width: $breakpoint-1) {
 		left: 0;
-		padding: 8px;
+		padding: 12px 8px 8px 8px;
 		right: 0;
 		top: 0;
 
@@ -23,7 +24,7 @@ section.menu {
   padding: 10px;
   position: relative;
   @include rotate(0deg);
-  @include transition(.5s ease-in-out);
+  @include transition(all .25s ease);
   width: 30px;
 
 	@media screen and (max-width: 730px) {
@@ -39,7 +40,7 @@ section.menu {
     opacity: 1;
     position: absolute;
     @include rotate(0deg);
-    @include transition(.25s ease-in-out);
+    @include transition(all .25s ease);
     width: 30px;
 
     &:nth-child(1) {
@@ -89,16 +90,29 @@ nav {
 	bottom: 0;
 	box-sizing: border-box;
 	color: #ffffff;
-	display: none;
-	left: 0;
+	display: inherit;
+	left: -400px;
 	padding: 90px 30px 30px 40px;
 	position: fixed;
-	right: 0;
 	top: 0;
+	@include transition(all .25s ease);
+	width: 400px;
 	z-index: 99999;
 
 	@media screen and (max-width: $breakpoint-1) {
+		display: none;
+		left: 0;
 		padding: 80px 30px 30px 23px;
+		right: 0;
+		width: 100%;
+	}
+
+	&.open {
+		left: 0;
+
+		@media screen and (max-width: $breakpoint-1) {
+			display: inherit;
+		}
 	}
 
 	.featured {
@@ -112,27 +126,18 @@ nav {
 			cursor: pointer;
 			display: block;
 			fill: $medium-grey;
-			float: left;
 			font-family: "Oswald", arial, sans;
 			font-size: 1.5rem;
 		  font-weight: 300;
-			margin: 0 2% 0 0;
-			padding: 40px;
-			text-align: center;
+			line-height: 0;
+			margin: 0 0 10px 0;
+			padding: 40px 40px 40px 90px;
+			position: relative;
+			text-align: left;
 			text-decoration: none;
 			text-transform: uppercase;
 			transition: all ease 0.25s;
-			width: 32%;
-
-			@media screen and (max-width: $breakpoint-1) {
-				float: none;
-				margin: 0 0 10px 0;
-				line-height: 0;
-				padding: 40px 40px 40px 90px;
-				position: relative;
-				text-align: left;
-				width: 100%;
-			}
+			width: 100%;
 
 			&:last-child {
 				margin: 0;
@@ -145,17 +150,12 @@ nav {
 			}
 
 			img {
-				height: 100px;
-				margin-bottom: 10px;
+				height: 50px;
+				left: 20px;
+				margin: 0;
+				position: absolute;
+				top: 15px;
 				width: auto;
-
-				@media screen and (max-width: $breakpoint-1) {
-					height: 50px;
-					left: 20px;
-					margin: 0;
-					position: absolute;
-					top: 15px;
-				}
 			}
 		}
 	}

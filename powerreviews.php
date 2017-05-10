@@ -15,7 +15,7 @@
 			<div class="title">
 				<h1 class="heading-1">PowerReviews</h1>
 				<span></span>
-				<p class="big">If you've shopped on sites like Jet.com, The North Face, Whirlpool, or Toys 'R Us, chances are you've seen PowerReviews' software in action. PowerReviews provides retailers and brands tools to collect and display product reviews on their Ecommerce sites.</p>
+				<p class="big">If you've shopped on sites like Jet.com, The North Face, or Toys 'R Us, then you've seen PowerReviews' software in action. PowerReviews provides software to collect and display product reviews.</p>
 			</div>
 		</header>
 
