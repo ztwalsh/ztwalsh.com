@@ -100,8 +100,7 @@ nav {
 	z-index: 99999;
 
 	@media screen and (max-width: $breakpoint-1) {
-		display: none;
-		left: 0;
+		left: -100%;
 		padding: 80px 30px 30px 23px;
 		right: 0;
 		width: 100%;
