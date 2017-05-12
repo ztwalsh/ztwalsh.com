@@ -15,15 +15,15 @@
 			<div class="title">
 				<h1 class="heading-1">Shakoolie</h1>
 				<span></span>
-				<p class="big">If you haven't had a beer in the shower...try it. If you want to make it great, buy a Shakoolie. Shakoolie is a shower beer can koozie meant to keep your beer cold and accessible.</p>
+				<p class="big">If you haven't had a beer in the shower...try it. If you want to make it great, buy a Shakoolie. Shakoolie is a shower beer can koozie meant to keep your shower beer cold and close-by.</p>
 			</div>
 		</header>
 
 		<section class="content">
-				<p class="big">I co-founded Shakoolie with my partner in 2011. From a  $1k investement, we've created a product driving $250k in annual revenue. From building an ecommerce site to handling assembly and fulfillment to advertising and customer service, Shakoolie steeps us in all aspects of an active business.</p>
+				<p class="big">I co-founded Shakoolie with my partner in 2011. From a $1k investment, we've created a product topping $250k in annual revenue. From building an ecommerce site to handling assembly and fulfillment to display advertising and customer service, Shakoolie steeps us in all aspects of a growing side-business.</p>
 
-				<h3 class="heading-2">Ecommerce Experience</h3>
-				<p>When it came to our website, we had a simple mission: Make it easy to find what we're selling and make it easy to see what you're gonna get. Shakoolie is a novelty item often given as a gift. It's also a pretty unique, so shoppers need to feel like they can become familiar with the product. We made a very easy-to-use mobile and desktop experience for shopping and browsing and put emphasis on our photos to make sure people can see, in detail, what they will be getting.</p>
+				<h3 class="heading-2">Effecive Ecommerce Experience</h3>
+				<p>When it comes to our website, we have a simple mission: Make it easy to find what we're selling and make it easy to imagine what you're going to get. Shakoolie is a unique novelty gift that people may not have seen before. Shoppers need to feel like they can become familiar with and ultimately trust the product they buy.</p>
 		</section>
 
 
@@ -31,23 +31,32 @@
 			<figure>
 				<img src="images/shakoolie_web-02.jpg" />
 				<figcaption class="left">
-					<h3 class="heading-3">We Want to Clearly Tell Shoppers What They'll Get</h3>
-					The category page is set up to make seeing our range of koozie design easy.
-					<br /><br />
-					The product page was built as a showroom for our koozies. Large photos of the koozie and its parts give buyers the visual information they need to add to cart.</figcaption>
+					<h3 class="heading-3">Expose What We Have</h3>
+					The product listing page is designed to emphasize our range of koozie designs&mdash;hopefully making it easy for the shopper to narrow down.
+				</figcaption>
 			</figure>
 			<figure>
 				<img src="images/shakoolie_web-06.jpg" />
+				<figcaption class="left">
+					<h3 class="heading-3">Cater to our Mobile Majority</h3>
+					Mobile traffic trumps our desktop traffic. We built the site to make shopping on your phone feel natural.
+				</figcaption>
 			</figure>
 			<figure>
 				<img src="images/shakoolie_web-01.jpg" />
+				<figcaption class="left">
+					<h3 class="heading-3">Show Off the Product</h3>
+					The product page was built as a showroom for our product. Large photos of the koozie and its parts give buyers the visual information they need to feel comfortable with a purchase.
+				</figcaption>
 			</figure>
 		</section>
 
 
 		<section class="content spacer">
 				<h3 class="heading-2">Product Design</h3>
-				<p>We started simple. We offered one koozie design and ordered a batch of 200. We didn't know what to expect, but to our astonishment, they started selling. Since then, we've expanded out product line to offer a variety of designs. Over time, we've seen these take off as gift items so today we gear our desings towards occasions where you'd want to buy a gift for someone in your life. We market them fo occasions like christmas, weddings, mother's and father's day...you name it. We've still stayed true to our original design.</p>
+				<p>Shakoolie started as a very simple offering: one koozie design showcased on a Wordpress page. To our astonishment, they started selling. Since then, we've expanded our product line to offer a variety of designs and have created a process for designing and testing new ideas.</p>
+
+				<p>Over time, we noticed Shakoolie's traction as a gift item, so today we gear our designs around occasions for gift-giving. Christmas, Weddings, Mother's Day, Father's Day&mdash;we have the perfect Shower Beer Koozie for any gift-giving need.</p>
 		</section>
 
 
@@ -55,42 +64,47 @@
 			<figure>
 				<img src="images/shakoolie_product-01.jpg" />
 				<figcaption class="right">
-					<h3 class="heading-3">We Try, Fail, and Try Again to Find What Sells</h3>
-					As a ux and product designer, iteration is a part of my job. It's been fun to take that principal and apply it to developing designs that resonate with real people.
-					<br /><br />
-					We have had many different designs over the years. We'll do short runs of new designs, see what sticks, and move on. It's been a great way to keep the idea train running while also keeping inventory bloat light.
+					<h3 class="heading-3">Design for a Reason</h3>
+					We rarely design random things. We listen to what's going on and to how people talk about Shakoolie. From there we make our best bet on what designs will be successful.
 				</figcaption>
 			</figure>
 			<figure>
 				<img src="images/shakoolie_product-02.jpg" />
+				<figcaption class="right">
+					<h3 class="heading-3">Test and Decide</h3>
+					For new designs we do short runs to see what sticks. When it doesn't work, we move on. This keeps ideas flowing while keeping inventory light.
+				</figcaption>
 			</figure>
 		</section>
 
 
 		<section class="content spacer">
-				<h3 class="heading-2">Shipping Packaging</h3>
-				<p>When it comes to shipping materials, our goal was simple: build excitement when a customer sees that their package has arrived. People receive packages all of the time&mdash;their amazon orders always come in the same kind of box. We differentiate by drawing attetion to the unique order they made with us. We push our bold, blue brand color and use the line "Take me to your shower" to instill visual recognition followed by something fun to remind them why they purchased in the first place.</p>
+				<h3 class="heading-2">Memorable Shipping Packaging</h3>
+				<p>A customer should be excited when a package arrives. In the beginning, we filled orders in the standard, white poly mailers. Today, however, we've elevated our materials to create a shipping package with personality that stands out from other parcels. We push our bold, blue brand color to instill visual recognition and use the line "Take me to your shower" to remind them what's inside.</p>
 		</section>
 
 
 		<section class="images">
 			<figure>
 				<img src="images/shakoolie_shipping-01.jpg" />
-				<figcaption class="right">
-					<h3 class="heading-3">We Make Customers Excited to Get Their Order</h3>
-					Our shipping packaging started as anything but exciting. Simpe Tyvek envelopes, the stark white polymailers. As we've grown, though, we wanted to add excitement to the moment the customer sees that Shakoolie package on their front door.
-					<br /><br />
-					We chose to go long on our bold blue color and added the simple phrase "Take me to your Shower" to make the experience of opening feel special.
+				<figcaption class="left">
+					<h3 class="heading-3">Make a Basic Box Less Basic</h3>
+					We transformed cost-effective boxes into branded packages with a little effort on some creative tape.
 				</figcaption>
 			</figure>
 			<figure>
 				<img src="images/shakoolie_shipping-02.jpg" />
-			</figure>
-			<figure>
-				<img src="images/shakoolie_shipping-04.jpg" />
+				<figcaption class="left">
+					<h3 class="heading-3">Add Some Personality</h3>
+					The spirit of our carries through all customer touchpoints. From Shopping to receiving to using. It’s all a part of a customer's experience with your brand.
+				</figcaption>
 			</figure>
 			<figure>
 				<img src="images/shakoolie_shipping-05.jpg" />
+				<figcaption class="left">
+					<h3 class="heading-3">Stand Out</h3>
+					Our packaging immediate strikes a chord&mdash;whether in your mailbox or on your porch.
+				</figcaption>
 			</figure>
 		</section>
 	</body>
