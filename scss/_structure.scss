@@ -44,6 +44,10 @@ header {
 	}
 }
 
+section.image-title {
+	padding-bottom: 30px;
+}
+
 section.content {
 	box-sizing: border-box;
 	margin: 0 auto;
@@ -106,5 +110,5 @@ img.zach {
 	@include border-radius(50%);
 	height: auto;
 	margin: 40px auto;
-	width: 100px;
+	width: 200px;
 }
