@@ -11,7 +11,7 @@
 
 		<section class="content text-center">
 			<section>
-				<img class="zach" height="" src="images/zachwalsh.jpg" width="" />
+				<img class="zach" height="" src="images/zachwalsh_02.jpg" width="" />
 				<h1 class="heading-1">Zach Walsh</h1>
 				<h2 class="heading-3 small">UX + Product Design</h2>
 			</section>
