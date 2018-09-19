@@ -9,8 +9,8 @@
 		<?php require('lib/include.nav.php'); ?>
 
 		<header>
-			<div class="hero-image">
-				<img src="images/shakoolie_web-03.jpg" />
+			<div class="hero-image shakoolie">
+				<!-- <img src="images/shakoolie_web-03.jpg" /> -->
 			</div>
 			<div class="title">
 				<h1 class="heading-1">Shakoolie</h1>

@@ -4,6 +4,17 @@ header {
 	position: relative;
 
 	.hero-image {
+		height: 700px;
+		width: 100%;
+		
+		&.shakoolie {
+			background: url('../images/shakoolie_web-hero.jpg');
+			background-attachment: fixed;
+	    background-position: center;
+	    background-repeat: no-repeat;
+	    background-size: cover;
+		}
+		
 		img {
 			height: auto;
 			min-width: 667px;
@@ -35,7 +46,7 @@ header {
 		}
 
 		span {
-			background: $green;
+			background: $yellow;
 			display: block;
 			height: 3px;
 			margin-bottom: 20px;
@@ -61,12 +72,13 @@ section.content {
 
 section.images {
 	margin: 0 auto;
-	max-width: 100%;
+	max-width: 1000px;
 
 	figure {
 		position: relative;
 
 		img {
+			@include border-radius(3px);
 			height: auto;
 			width: 100%;
 		}
