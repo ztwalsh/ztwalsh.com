@@ -1,42 +1,74 @@
-header {
-	min-height: 400px;
-	overflow: hidden;
-	position: relative;
-
-	.hero-image {
-		height: 700px;
-		width: 100%;
+section.tiles {
+	padding: 30px 0 0 0;
+	
+	div {
+		background: #ffffff;
+		@include border-radius(3px);
+		box-shadow: 0 10px 45px 0 rgba(0, 0, 0, .3);
+		float: left;
+		margin: 0 3% 3% 0;
+		overflow: hidden;
+		transition: all ease 0.25s;
+		width: 48.5%;
 		
-		&.shakoolie {
-			background: url('../images/shakoolie_web-hero.jpg');
-			background-attachment: fixed;
-	    background-position: center;
-	    background-repeat: no-repeat;
-	    background-size: cover;
+		a {
+			text-decoration: none;
+			
+			.heading-4 {
+				color: $black;
+				padding: 20px 20px 0 20px;
+			}
+			
+			p {
+				color: $grey;
+				padding: 0 20px 20px 20px;
+			}
 		}
 		
-		img {
-			height: auto;
-			min-width: 667px;
+		@media screen and (max-width: $breakpoint-1) {
+			float: none;
+			margin: 0 0 3% 0;
 			width: 100%;
 		}
+		
+		&:nth-child(even) {
+			float: right;
+			margin: 0;
+			
+			@media screen and (max-width: $breakpoint-1) {
+				float: none;
+				margin: 0 0 3% 0;
+			}
+		}
+		
+		&:hover {
+			box-shadow: 0 20px 45px 0 rgba(0, 0, 0, .3);
+		}
 	}
+}
+
+header {
 
 	.title {
-		background: rgba(0, 0, 0, 0.75);
-		bottom: 0;
-		color: #ffffff;
-		padding: 15% 22% 0 22%;
-		position: absolute;
+		box-sizing: border-box;
+		margin: 100px auto 0 auto;
+		max-width: 700px;
+		padding: 20px 20px 100px 20px;
 		text-align: left;
-		top: 0;
 
 		@media screen and (max-width: $breakpoint-1) {
-			padding: 20% 20px 0 20px;
+			padding: 0 20px 80px 20px;
+		}
+		
+		a {
+			color: $green;
+			font-family: "Oswald", arial, sans;
+			text-decoration: none;
+			text-transform: uppercase;
 		}
 
 		.heading-1 {
-			font-size: 4rem;
+			font-size: 3rem;
 			line-height: 1.2;
 			padding: 0 0 20px 0;
 
@@ -60,10 +92,24 @@ section.image-title {
 }
 
 section.content {
+	background: $green;
 	box-sizing: border-box;
-	margin: 0 auto;
-	max-width: 700px;
-	padding: 80px 20px;
+	color: $black;
+	
+	.wrapper {
+		box-sizing: border-box;
+		margin: 0 auto;
+		max-width: 700px;
+		padding: 50px 20px 150px 20px;
+		
+		@media screen and (max-width: $breakpoint-1) {
+			padding: 50px 20px 150px 20px;
+		}
+		
+		.heading-2 {
+			color: #ffffff;
+		}
+	}
 
 	&.spacer {
 		padding: 100px 20px;
@@ -71,32 +117,25 @@ section.content {
 }
 
 section.images {
-	margin: 0 auto;
-	max-width: 1000px;
+	margin: -100px auto 0 auto;
+	max-width: 860px;
+	padding: 0 20px;
 
 	figure {
-		position: relative;
+		@include border-radius(3px);
+		box-shadow: 0 10px 45px 0 rgba(0, 0, 0, .3);
+		margin: 0 0 80px 0;
+		overflow: hidden;
 
 		img {
-			@include border-radius(3px);
 			height: auto;
 			width: 100%;
 		}
 
 		figcaption {
-			background: rgba(0, 0, 0, 0.75);
-			@include border-radius(3px);
-			color: #ffffff;
 			font-size: 0.9rem;
 			line-height: 1.2rem;
-			max-width: 300px;
-			padding: 20px;
-			position: absolute;
-			top: 50px;
-
-			@media screen and (max-width: $breakpoint-1) {
-				display: none;
-			}
+			padding: 30px;
 
 			&.left {
 				left: 50px;
@@ -104,15 +143,6 @@ section.images {
 
 			&.right {
 				right: 50px;
-			}
-
-			h3::after {
-				background: $green;
-				content: " ";
-				display: block;
-				height: 2px;
-				margin-top: 12px;
-				width: 50px;
 			}
 		}
 	}

@@ -9,10 +9,11 @@
 
 		<?php require('lib/include.nav.php'); ?>
 
-		<section class="content text-center">
+		<section class="text-center">
 			<section>
-				<img class="zach" height="" src="images/zachwalsh.jpg" width="" />
-				<h1 class="heading-1">Get in Touch</h1>
+				<img class="zach" height="" src="images/zachwalsh_03.jpg" width="" />
+				<h1 class="heading-1">You there!<br />Reach out any time.</h1>
+			<br />
 				<h2 class="heading-3 small">
 					<i class="fa fa-twitter" aria-hidden="true"></i> &nbsp;@ztwalsh<br />
 					<i class="fa fa-dribbble" aria-hidden="true"></i> &nbsp;@ztwalsh<br />

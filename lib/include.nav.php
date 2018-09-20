@@ -18,20 +18,19 @@
   <div class="featured cf">
     <h2 class="heading-2">Featured Work</h2>
     <a href="<?php echo $root; ?>powerreviews.php"<?php if($page == 'powerreviews') { echo ' class="on"';} ?>>
-      <img src="images/pwr-logo.svg" /><br />
       PowerReviews
     </a>
     <a href="<?php echo $root; ?>orbitz.php"<?php if($page == 'orbitz') { echo ' class="on"';} ?>>
-      <img src="images/orbitz-logo.svg" /><br />
       Orbitz
     </a>
     <a href="<?php echo $root; ?>shakoolie.php"<?php if($page == 'shakoolie') { echo ' class="on"';} ?>>
-      <img src="images/shakoolie-logo.svg" /><br />
       Shakoolie
     </a>
   </div>
   <div class="other">
-    <a href="<?php echo $root; ?>"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
-    <a href="<?php echo $root; ?>contact.php"><i class="fa fa-handshake-o" aria-hidden="true"></i> Get in Touch</a>
+    <a class="secondary" href="<?php echo $root; ?>"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
+    <a class="secondary dribbble" href="https://dribbble.com/zachwalsh" target="_blank"><i class="fa fa-dribbble"></i> Dribbble</a>
+    <a class="secondary twitter" href="https://twitter.com/ztwalsh" target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
+    <a class="secondary" href="<?php echo $root; ?>contact.php"><i class="fa fa-handshake-o" aria-hidden="true"></i> Get in Touch</a>
   </div>
 </nav>
