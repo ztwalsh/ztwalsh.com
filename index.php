@@ -22,14 +22,16 @@
 				<section class="tiles cf">
 					<div class="powerreviews.php">
 						<a href="powerreviews.php">
+							<img src="images/powerreviews_dashboard-01.jpg" width="100%" height="auto" />
 							<h4 class="heading-4">PowerReviews</h4>
-							<p class="small">Software giving brands and retailers a connection to their customers.</p>
+							<p class="small">Giving brands and retailers a connection to their customers.</p>
 						</a>
 					</div>
 					<div class="orbitz.php">
 						<a href="powerreviews.php">
+							<img src="images/orbitz_web-01.jpg" width="100%" height="auto" />
 							<h4 class="heading-4">Orbitz</h4>
-							<p class="small">Helping consumers shop for and book the flight times that worked for them.</p>
+							<p class="small">Helping consumers shop for and book the flights that work for them.</p>
 						</a>
 					</div>
 					<!-- <div class="photowave.php">
@@ -40,8 +42,9 @@
 					</div> -->
 					<div class="shakoolie.com">
 						<a href="shakoolie.php">
+							<img src="images/shakoolie_web-06.jpg" width="100%" height="auto" />
 							<h4 class="heading-4">Shakoolie</h4>
-							<p class="small">Unlocking the pure joy of having a beer in the shower to the masses.</p>
+							<p class="small">Unlocking the pure joy of drinking a beer in the shower.</p>
 						</a>
 					</div>
 				</section>

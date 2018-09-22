@@ -10,10 +10,10 @@
 		<?php require('lib/include.nav.php'); ?>
 
 		<section class="text-center">
-			<section>
+			<section class="image-title">
 				<img class="zach" height="" src="images/zachwalsh_03.jpg" width="" />
 				<h1 class="heading-1">You there!<br />Reach out any time.</h1>
-			<br />
+				<br />
 				<h2 class="heading-3 small">
 					<i class="fa fa-twitter" aria-hidden="true"></i> &nbsp;@ztwalsh<br />
 					<i class="fa fa-dribbble" aria-hidden="true"></i> &nbsp;@ztwalsh<br />

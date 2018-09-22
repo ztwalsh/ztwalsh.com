@@ -117,7 +117,7 @@ nav {
 
 	.featured {
 		margin: 0 0 40px 0;
-		
+
 		.heading-2 {
 			border-bottom: 1px solid $grey;
 			color: #ffffff;
@@ -156,8 +156,6 @@ nav {
 	}
 
 	.other {
-		
-		
 		a {
 			background: rgba(200, 200, 200, 0.0);
 			@include border-radius(0);
@@ -173,11 +171,6 @@ nav {
 			text-decoration: none;
 			transition: all ease 0.25s;
 			width: 100%;
-
-			@media screen and (max-width: $breakpoint-1) {
-				font-size: 0.8rem;
-				padding: 5px 10px;
-			}
 
 			&.on,
 			&:hover {

@@ -8,12 +8,12 @@ body {
 }
 
 .small {
-	font-size: 0.8rem;
+	font-size: 0.9rem;
 	line-height: 1.0rem;
 }
 
 .big {
-  
+
 	font-size: 1.4rem;
   line-height: 2.2rem;
 
@@ -43,7 +43,7 @@ body {
     font-family: "Open Sans", arial, sans;
 		font-weight: 300;
   }
-	
+
 	@media screen and (max-width: $breakpoint-1) {
 		font-size: 1.8rem;
 	}
@@ -55,7 +55,7 @@ body {
 
 .heading-2 {
 	font-size: 1.8rem;
-	
+
 	@media screen and (max-width: $breakpoint-1) {
 		font-size: 1.6rem;
 	}
@@ -67,7 +67,7 @@ body {
   &.small {
     font-size: 1.0rem;
   }
-	
+
 	@media screen and (max-width: $breakpoint-1) {
 		font-size: 1.2rem;
 	}
@@ -75,10 +75,6 @@ body {
 
 .heading-4 {
 	font-size: 1.0rem;
-	
-	@media screen and (max-width: $breakpoint-1) {
-		font-size: 0.8rem;
-	}
 }
 
 .heading-5 {
