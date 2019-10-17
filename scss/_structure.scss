@@ -1,16 +1,24 @@
-// New
 .grid-container {
-	border: 1px solid blue;
 	display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
 
 	div {
-		border: 1px solid red;
+		box-sizing: border-box;
 		display: flex;
   	flex-direction: column;
   	flex-basis: 100%;
   	flex: 1;
+		justify-content: center;
+
+		&.copy {
+			padding: 0 50px;
+		}
+
+		img {
+			height: auto;
+			width: 100%;
+		}
 	}
 }

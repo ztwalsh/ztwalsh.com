@@ -1,26 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow:300,900&display=swap');
+
 body {
 	color: $grey;
 	font-family: "Open Sans", arial, sans;
+	font-family: "Barlow", arial, sans;
 	font-size: 16px;
 	font-weight: 300;
   line-height: 1.5rem;
 	transition: all ease 0.25s;
-}
-
-.small {
-	font-size: 0.9rem;
-	line-height: 1.0rem;
-}
-
-.big {
-
-	font-size: 1.4rem;
-  line-height: 2.2rem;
-
-  @media screen and (max-width: $breakpoint-1) {
-    font-size: 1.2rem;
-    line-height: 1.6rem;
-  }
 }
 
 .heading-1,
@@ -30,17 +17,19 @@ body {
 .heading-5 {
 	color: $black;
 	font-family: "Oswald", arial, sans;
+	font-family: "Barlow", arial, sans;
 	font-size: 2.2rem;
-  font-weight: 300;
+  font-weight: 900;
   line-height: 1.75rem;
   margin: 0;
 	padding: 0 0 5px 0;
-	text-transform: uppercase;
+	//text-transform: uppercase;
 	transition: all ease 0.25s;
 
   &.small {
     text-transform: lowercase;
     font-family: "Open Sans", arial, sans;
+		font-family: "Barlow", arial, sans;
 		font-weight: 300;
   }
 
@@ -50,27 +39,17 @@ body {
 }
 
 .heading-1 {
+	font-size: 2.8rem;
 	line-height: 2.1rem;
+	padding-bottom: 10px;
 }
 
 .heading-2 {
 	font-size: 1.8rem;
-
-	@media screen and (max-width: $breakpoint-1) {
-		font-size: 1.6rem;
-	}
 }
 
 .heading-3 {
 	font-size: 1.4rem;
-
-  &.small {
-    font-size: 1.0rem;
-  }
-
-	@media screen and (max-width: $breakpoint-1) {
-		font-size: 1.2rem;
-	}
 }
 
 .heading-4 {
@@ -89,8 +68,8 @@ p {
   }
 }
 
-.text-center {
-  text-align: center;
+.big {
+	font-size: 1.5rem;
 }
 
 .secondary {

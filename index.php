@@ -11,18 +11,20 @@
 
 		<section class="grid-container">
 			<div>
-				Stuff
+				<img src="images/work/01_mountains_tile.jpg" />
 			</div>
-			<div>
-				Stuff
+			<div class="copy">
+				<h2 class="heading-1">Shakoolie Website</h2>
+				<p class="big">building a place where people can see and experience before buying</p>
 			</div>
 		</section>
 		<section class="grid-container">
 			<div>
-				Stuff
+				<img src="images/work/01_mountains_tile.jpg" />
 			</div>
-			<div>
-				Stuff
+			<div class="copy">
+				<h2 class="heading-1">Shakoolie Website</h2>
+				<p class="big">building a place where people can see and experience before buying</p>
 			</div>
 		</section>
 	</body>
